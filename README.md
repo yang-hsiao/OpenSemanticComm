@@ -5,9 +5,11 @@ This repository organizes open source code in the field of semantic communicatio
 | Title | Source | code |
 | --- | --- | --- |
 | [Joint Coding-Modulation for Digital Semantic Communications via Variational Autoencoder](https://arxiv.org/pdf/2310.06690) | TOC 2024 | [Offical Version](https://github.com/SJTU-mxtao/Joint-Coding-Modulation-for-Digital-Semantic-Communication) |
+| [Two-way semantic communications without feedback](https://ieeexplore.ieee.org/abstract/document/10400867) | TVT 2024 | [Offical Version](https://github.com/Kiven-ykw/TW-SemanticComm) |
 | [Predictive and Adaptive Deep Coding for Wireless Image Transmission in Semantic Communication](https://ieeexplore.ieee.org/abstract/document/10015684) | TWC 2023 | [Offical Version](https://github.com/wyzhang-ustb/Predictive-and-Adaptive-Deep-Coding-for-Wireless-Image-Transmission-in-Semantic-Communication) |
 | [WITT: A WIRELESS IMAGE TRANSMISSION TRANSFORMER FOR SEMANTIC COMMUNICATIONS](https://arxiv.org/pdf/2211.00937) | ICASSP 2023 | [Offical Version](https://github.com/KeYang8/WITT) |
 | [On the role of ViT and CNN in semantic communications: Analysis and prototype validation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10171356) | IEEE Access 2023 | [Offical Version](https://github.com/kmsiapps/Semantic-Communications-with-a-Vision-Transformer) |
+| [Alleviating Distortion Accumulation in Multi-Hop Semantic Communication](https://arxiv.org/pdf/2308.11126) | ArXiv | [Offical Version](https://github.com/ZJU-IICNS-AICOMM/Multihop-DeepSC) |
 | [Large AI Model-Based Semantic Communications](https://arxiv.org/abs/2307.03492) | ArXiv | [Offical Version](https://github.com/jiangfeibo/LAMSC) |
 | [Generative Semantic Communication: Diffusion Models Beyond Bit Recovery](https://arxiv.org/pdf/2306.04321v1) | ArXiv | [Offical Version](https://github.com/ispamm/GESCO) |
 | [Deep Learning-Enabled Semantic Communication Systems with Task-Unaware Transmitter and Dynamic Data](https://arxiv.org/pdf/2205.00271) | JSAC 2022 | [Offical Version](https://github.com/SJTU-mxtao/Semantic-Communication-Systems) |
