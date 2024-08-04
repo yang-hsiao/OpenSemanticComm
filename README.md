@@ -26,7 +26,7 @@ This repository organizes open source code in the field of semantic communicatio
 | [WITT: A WIRELESS IMAGE TRANSMISSION TRANSFORMER FOR SEMANTIC COMMUNICATIONS](https://arxiv.org/pdf/2211.00937) | ICASSP 2023 | [Official Version](https://github.com/KeYang8/WITT) |
 | [Space-Time Design for Deep Joint Source Channel Coding of Images over MIMO Channels](https://ieeexplore.ieee.org/document/10304536) | SPAWC 2023 | [Official Version](https://github.com/aprilbian/ST_JSCC) |
 | [On the role of ViT and CNN in semantic communications: Analysis and prototype validation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10171356) | IEEE Access 2023 | [Official Version](https://github.com/kmsiapps/Semantic-Communications-with-a-Vision-Transformer) |
-| [Deep Learning Enabled Video Semantic Transmission Against Multi-dimensional Noise](https://ieeexplore.ieee.org/abstract/document/10464432) | Globecom Workshops 2024 | [Official Version](https://github.com/hwniu/DVSC) |
+| [Deep Learning Enabled Video Semantic Transmission Against Multi-dimensional Noise](https://ieeexplore.ieee.org/abstract/document/10464432) | Globecom Workshops 2023 | [Official Version](https://github.com/hwniu/DVSC) |
 | [Alleviating Distortion Accumulation in Multi-Hop Semantic Communication](https://arxiv.org/pdf/2308.11126) | ArXiv | [Official Version](https://github.com/ZJU-IICNS-AICOMM/Multihop-DeepSC) |
 | [Large AI Model-Based Semantic Communications](https://arxiv.org/abs/2307.03492) | ArXiv | [Official Version](https://github.com/jiangfeibo/LAMSC) |
 | [Generative Semantic Communication: Diffusion Models Beyond Bit Recovery](https://arxiv.org/pdf/2306.04321v1) | ArXiv | [Official Version](https://github.com/ispamm/GESCO) |
