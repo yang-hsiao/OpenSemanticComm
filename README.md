@@ -10,6 +10,7 @@ This repository organizes open source code in the field of semantic communicatio
 | [Diffusion Models for Audio Semantic Communication](https://ieeexplore.ieee.org/document/10447612) | ICASSP 2024 | [Offical Version](https://github.com/ispamm/DM4ASC) |
 | [Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information](https://arxiv.org/abs/2310.04311) | ICMLCN 2024 | [Offical Version](https://github.com/ipc-lab/deepjscc-wz) |
 | [Predictive and Adaptive Deep Coding for Wireless Image Transmission in Semantic Communication](https://ieeexplore.ieee.org/abstract/document/10015684) | TWC 2023 | [Offical Version](https://github.com/wyzhang-ustb/Predictive-and-Adaptive-Deep-Coding-for-Wireless-Image-Transmission-in-Semantic-Communication) |
+| [Robust Semantic Communications With Masked VQ-VAE Enabled Codebook](https://ieeexplore.ieee.org/document/10101778) | TWC 2023 | [Offical Version](https://github.com/hqyyqh888/RobustSemanComm) |
 | [Distributed Deep Joint Source-Channel Coding over a Multiple Access Channel](https://arxiv.org/pdf/2211.09920) | ICC 2023 | [Offical Version](https://github.com/ipc-lab/deepjscc-noma) |
 | [DeepJSCC-1++: Robust and Bandwidth-Adaptive Wireless Image Transmission](https://ieeexplore.ieee.org/document/10436878) | Globecom 2023 | [Offical Version](https://github.com/aprilbian/deepjscc-lplusplus) |
 | [WITT: A WIRELESS IMAGE TRANSMISSION TRANSFORMER FOR SEMANTIC COMMUNICATIONS](https://arxiv.org/pdf/2211.00937) | ICASSP 2023 | [Offical Version](https://github.com/KeYang8/WITT) |
