@@ -4,6 +4,7 @@ This repository organizes open source code in the field of semantic communicatio
 
 | Title | Source | code |
 | --- | --- | --- |
+| [CDDM: Channel Denoising Diffusion Models for Wireless Semantic Communications](https://ieeexplore.ieee.org/document/10480348) | TWC 2024 | [Official Version](https://github.com/Wireless3C-SJTU/CDDM-channel-denoising-diffusion-model-for-semantic-communication) |
 | [Joint Coding-Modulation for Digital Semantic Communications via Variational Autoencoder](https://arxiv.org/pdf/2310.06690) | TOC 2024 | [Official Version](https://github.com/SJTU-mxtao/Joint-Coding-Modulation-for-Digital-Semantic-Communication) |
 | [A Unified Multi-Task Semantic Communication System for Multimodal Data](https://ieeexplore.ieee.org/abstract/document/10431795) | TOC 2024 | [Official Version](https://github.com/zhang-guangyi/t-udeepsc) |
 | [Two-way semantic communications without feedback](https://ieeexplore.ieee.org/abstract/document/10400867) | TVT 2024 | [Official Version](https://github.com/Kiven-ykw/TW-SemanticComm) |
@@ -23,6 +24,7 @@ This repository organizes open source code in the field of semantic communicatio
 | [Large AI Model-Based Semantic Communications](https://arxiv.org/abs/2307.03492) | ArXiv | [Official Version](https://github.com/jiangfeibo/LAMSC) |
 | [Generative Semantic Communication: Diffusion Models Beyond Bit Recovery](https://arxiv.org/pdf/2306.04321v1) | ArXiv | [Official Version](https://github.com/ispamm/GESCO) |
 | [Deep Learning-Enabled Semantic Communication Systems with Task-Unaware Transmitter and Dynamic Data](https://arxiv.org/pdf/2205.00271) | JSAC 2022 | [Official Version](https://github.com/SJTU-mxtao/Semantic-Communication-Systems) |
+| [OFDM-guided deep joint source channel coding for wireless multipath fading channels](https://arxiv.org/abs/2109.05194) | TCCN 2022 | [Official Version](https://github.com/mingyuyng/OFDM-guided-JSCC) |
 | [Adaptive bit rate control in semantic communication with incremental knowledge-based HARQ](https://ieeexplore.ieee.org/abstract/document/9827978) | OJCOMS 2022 | [Official Version](https://github.com/ZJUNICE/Semantic-Communication-IK-HARQ) |
 | [Resource Allocation for Text Semantic Communications](https://ieeexplore.ieee.org/document/9763856) | WCL 2022 | [Official Version](https://github.com/YL12345/semantic-resource-allocation-S-SE-) |
 | [QoE-aware resource allocation for semantic communication networks](https://ieeexplore.ieee.org/abstract/document/10001594) | Globecom 2022 | [Official Version](https://github.com/YL12345/QoE-Aware-Resource-Allocation-for-Semantic-Communication-Networks) |
