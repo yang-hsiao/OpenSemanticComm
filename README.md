@@ -29,9 +29,11 @@ This repository organizes open source code in the field of semantic communicatio
 | [Large AI Model-Based Semantic Communications](https://arxiv.org/abs/2307.03492) | ArXiv | [Official Version](https://github.com/jiangfeibo/LAMSC) |
 | [Generative Semantic Communication: Diffusion Models Beyond Bit Recovery](https://arxiv.org/pdf/2306.04321v1) | ArXiv | [Official Version](https://github.com/ispamm/GESCO) |
 | [Deep Learning-Enabled Semantic Communication Systems with Task-Unaware Transmitter and Dynamic Data](https://arxiv.org/pdf/2205.00271) | JSAC 2022 | [Official Version](https://github.com/SJTU-mxtao/Semantic-Communication-Systems) |
+| [Nonlinear Transform Source-Channel Coding for Semantic Communications](https://arxiv.org/abs/2112.10961) | JSAC 2022 | [Official Version](https://github.com/wsxtyrdd/NTSCC_JSAC22) |
 | [OFDM-guided deep joint source channel coding for wireless multipath fading channels](https://arxiv.org/abs/2109.05194) | TCCN 2022 | [Official Version](https://github.com/mingyuyng/OFDM-guided-JSCC) |
 | [Adaptive bit rate control in semantic communication with incremental knowledge-based HARQ](https://ieeexplore.ieee.org/abstract/document/9827978) | OJCOMS 2022 | [Official Version](https://github.com/ZJUNICE/Semantic-Communication-IK-HARQ) |
 | [Resource Allocation for Text Semantic Communications](https://ieeexplore.ieee.org/document/9763856) | WCL 2022 | [Official Version](https://github.com/YL12345/semantic-resource-allocation-S-SE-) |
+| [Semantic Communications with Discrete-time Analog Transmission: A PAPR Perspective](https://arxiv.org/abs/2208.08342) | WCL 2022 | [Official Version](https://github.com/lynshao/SemanticPAPR) |
 | [QoE-aware resource allocation for semantic communication networks](https://ieeexplore.ieee.org/abstract/document/10001594) | Globecom 2022 | [Official Version](https://github.com/YL12345/QoE-Aware-Resource-Allocation-for-Semantic-Communication-Networks) |
 | [Real-time semantic communications with a vision transformer](https://arxiv.org/pdf/2205.03886) | ICC Workshops 2022 | [Official Version](https://github.com/kmsiapps/e2e-dnn-comm-for-image) |
 | [Deep Joint Source-Channel Coding Over Cooperative Relay Networks](https://arxiv.org/pdf/2211.06705) | ArXiv | [Official Version](https://github.com/aprilbian/Relay_JSCC) |
