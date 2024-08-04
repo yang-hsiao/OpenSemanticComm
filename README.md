@@ -10,6 +10,7 @@ This repository organizes open source code in the field of semantic communicatio
 | [Two-way semantic communications without feedback](https://ieeexplore.ieee.org/abstract/document/10400867) | TVT 2024 | [Official Version](https://github.com/Kiven-ykw/TW-SemanticComm) |
 | [Diffusion Models for Audio Semantic Communication](https://ieeexplore.ieee.org/document/10447612) | ICASSP 2024 | [Official Version](https://github.com/ispamm/DM4ASC) |
 | [Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information](https://arxiv.org/abs/2310.04311) | ICMLCN 2024 | [Official Version](https://github.com/ipc-lab/deepjscc-wz) |
+| Wireless Image Semantic Cooperative Transmission in Distributed Edge Networks: An Information Disentanglement Method | SPAWC 2024 | [Official Version](https://github.com/Donghong-Cai/Two-view-DC-DeepJSCC-D) |
 | [Predictive and Adaptive Deep Coding for Wireless Image Transmission in Semantic Communication](https://ieeexplore.ieee.org/abstract/document/10015684) | TWC 2023 | [Official Version](https://github.com/wyzhang-ustb/Predictive-and-Adaptive-Deep-Coding-for-Wireless-Image-Transmission-in-Semantic-Communication) |
 | [Robust Semantic Communications With Masked VQ-VAE Enabled Codebook](https://ieeexplore.ieee.org/document/10101778) | TWC 2023 | [Official Version](https://github.com/hqyyqh888/RobustSemanComm) |
 | [Knowledge Enhanced Semantic Communication Receiver](https://ieeexplore.ieee.org/abstract/document/10122227) | COMML 2023 | [Official Version](https://github.com/ZJUNICE/Knowledge-Enhanced-SemCom) |
@@ -32,5 +33,6 @@ This repository organizes open source code in the field of semantic communicatio
 | [Deep Joint Source-Channel Coding Over Cooperative Relay Networks](https://arxiv.org/pdf/2211.06705) | ArXiv | [Official Version](https://github.com/aprilbian/Relay_JSCC) |
 | [Semantic Communication Systems for Speech Transmission](https://ieeexplore.ieee.org/abstract/document/9450827) | JSAC 2021 | [Official Version](https://github.com/Zhenzi-Weng/DeepSC-S) |
 | [Deep Learning Enabled Semantic Communication Systems](https://ieeexplore.ieee.org/abstract/document/9398576) | TSP 2021 | [Official Version](https://github.com/HQXie0910/The-implementations-of-DeepSC); [PyTorch Version](https://github.com/13274086/DeepSC) |
+| [Wireless Image Transmission Using Deep Source Channel Coding With Attention Modules](https://ieeexplore.ieee.org/abstract/document/9438648) | TCSVT 2021 | [Official Version](https://github.com/alexxu1988/ADJSCC) |
 | [Reinforcement Learning-powered Semantic Communication via Semantic Similarity](https://arxiv.org/abs/2108.12121) | ArXiv | [Official Version](https://github.com/ZJUNICE/SemanticRL) |
 | [DeepJSCC-f: Deep Joint Source-Channel Coding of Images with Feedback](https://arxiv.org/pdf/1911.11174) | JSAIT 2020 | [Official Version](https://github.com/ipc-lab/deepJSCC-feedback) |
