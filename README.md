@@ -4,6 +4,7 @@ This repository organizes open source code in the field of semantic communicatio
 
 | Title | Source | code |
 | --- | --- | --- |
+| [Compression Ratio Learning and Semantic Communications for Video Imaging](https://ieeexplore.ieee.org/abstract/document/10539255) | JSTSP 2024 | [Official code](https://github.com/Bowen-zhang96/CRL-SemCom-VidCI) |
 | [CDDM: Channel Denoising Diffusion Models for Wireless Semantic Communications](https://ieeexplore.ieee.org/document/10480348) | TWC 2024 | [Official Version](https://github.com/Wireless3C-SJTU/CDDM-channel-denoising-diffusion-model-for-semantic-communication) |
 | [Joint Coding-Modulation for Digital Semantic Communications via Variational Autoencoder](https://arxiv.org/pdf/2310.06690) | TOC 2024 | [Official Version](https://github.com/SJTU-mxtao/Joint-Coding-Modulation-for-Digital-Semantic-Communication) |
 | [A Unified Multi-Task Semantic Communication System for Multimodal Data](https://ieeexplore.ieee.org/abstract/document/10431795) | TOC 2024 | [Official Version](https://github.com/zhang-guangyi/t-udeepsc) |
@@ -11,6 +12,8 @@ This repository organizes open source code in the field of semantic communicatio
 | [Diffusion Models for Audio Semantic Communication](https://ieeexplore.ieee.org/document/10447612) | ICASSP 2024 | [Official Version](https://github.com/ispamm/DM4ASC) |
 | [Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information](https://arxiv.org/abs/2310.04311) | ICMLCN 2024 | [Official Version](https://github.com/ipc-lab/deepjscc-wz) |
 | Wireless Image Semantic Cooperative Transmission in Distributed Edge Networks: An Information Disentanglement Method | SPAWC 2024 | [Official Version](https://github.com/Donghong-Cai/Two-view-DC-DeepJSCC-D) |
+| [Diffusion-Aided Joint Source Channel Coding For High Realism Wireless Image Transmission](https://arxiv.org/abs/2404.17736) | ArXiv | [Official Version](https://github.com/mingyuyng/DiffJSCC) |
+| [Semantic Communications With Variable-Length Coding for Extended Reality](https://ieeexplore.ieee.org/document/10198383) | JSTSP 2023 | [Official Version](https://github.com/Bowen-zhang96/VL-SCC) |
 | [Predictive and Adaptive Deep Coding for Wireless Image Transmission in Semantic Communication](https://ieeexplore.ieee.org/abstract/document/10015684) | TWC 2023 | [Official Version](https://github.com/wyzhang-ustb/Predictive-and-Adaptive-Deep-Coding-for-Wireless-Image-Transmission-in-Semantic-Communication) |
 | [Robust Semantic Communications With Masked VQ-VAE Enabled Codebook](https://ieeexplore.ieee.org/document/10101778) | TWC 2023 | [Official Version](https://github.com/hqyyqh888/RobustSemanComm) |
 | [Knowledge Enhanced Semantic Communication Receiver](https://ieeexplore.ieee.org/abstract/document/10122227) | COMML 2023 | [Official Version](https://github.com/ZJUNICE/Knowledge-Enhanced-SemCom) |
