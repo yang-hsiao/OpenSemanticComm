@@ -4,7 +4,7 @@ This repository organizes open source code in the field of semantic communicatio
 
 | Title | Source | code |
 | --- | --- | --- |
-| [Compression Ratio Learning and Semantic Communications for Video Imaging](https://ieeexplore.ieee.org/abstract/document/10539255) | JSTSP 2024 | [Official code](https://github.com/Bowen-zhang96/CRL-SemCom-VidCI) |
+| [Compression Ratio Learning and Semantic Communications for Video Imaging](https://ieeexplore.ieee.org/abstract/document/10539255) | JSTSP 2024 | [Official Version](https://github.com/Bowen-zhang96/CRL-SemCom-VidCI) |
 | [CDDM: Channel Denoising Diffusion Models for Wireless Semantic Communications](https://ieeexplore.ieee.org/document/10480348) | TWC 2024 | [Official Version](https://github.com/Wireless3C-SJTU/CDDM-channel-denoising-diffusion-model-for-semantic-communication) |
 | [Joint Coding-Modulation for Digital Semantic Communications via Variational Autoencoder](https://arxiv.org/pdf/2310.06690) | TOC 2024 | [Official Version](https://github.com/SJTU-mxtao/Joint-Coding-Modulation-for-Digital-Semantic-Communication) |
 | [A Unified Multi-Task Semantic Communication System for Multimodal Data](https://ieeexplore.ieee.org/abstract/document/10431795) | TOC 2024 | [Official Version](https://github.com/zhang-guangyi/t-udeepsc) |
