@@ -8,6 +8,7 @@ This repository organizes open source code in the field of semantic communicatio
 | [CDDM: Channel Denoising Diffusion Models for Wireless Semantic Communications](https://ieeexplore.ieee.org/document/10480348) | TWC 2024 | [Official Version](https://github.com/Wireless3C-SJTU/CDDM-channel-denoising-diffusion-model-for-semantic-communication) |
 | [Joint Coding-Modulation for Digital Semantic Communications via Variational Autoencoder](https://arxiv.org/pdf/2310.06690) | TOC 2024 | [Official Version](https://github.com/SJTU-mxtao/Joint-Coding-Modulation-for-Digital-Semantic-Communication) |
 | [A Unified Multi-Task Semantic Communication System for Multimodal Data](https://ieeexplore.ieee.org/abstract/document/10431795) | TOC 2024 | [Official Version](https://github.com/zhang-guangyi/t-udeepsc) |
+| [Swinjscc: Taming swin transformer for deep joint source-channel coding](https://arxiv.org/abs/2308.09361) | TCCN 2024 | [Official Version](https://github.com/semcomm/SwinJSCC) |
 | [Two-way semantic communications without feedback](https://ieeexplore.ieee.org/abstract/document/10400867) | TVT 2024 | [Official Version](https://github.com/Kiven-ykw/TW-SemanticComm) |
 | [Diffusion Models for Audio Semantic Communication](https://ieeexplore.ieee.org/document/10447612) | ICASSP 2024 | [Official Version](https://github.com/ispamm/DM4ASC) |
 | [Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information](https://arxiv.org/abs/2310.04311) | ICMLCN 2024 | [Official Version](https://github.com/ipc-lab/deepjscc-wz) |
