@@ -6,6 +6,7 @@ This repository organizes open source code in the field of semantic communicatio
 | --- | --- | --- |
 | [Compression Ratio Learning and Semantic Communications for Video Imaging](https://ieeexplore.ieee.org/abstract/document/10539255) | JSTSP 2024 | [Official Version](https://github.com/Bowen-zhang96/CRL-SemCom-VidCI) |
 | [CDDM: Channel Denoising Diffusion Models for Wireless Semantic Communications](https://ieeexplore.ieee.org/document/10480348) | TWC 2024 | [Official Version](https://github.com/Wireless3C-SJTU/CDDM-channel-denoising-diffusion-model-for-semantic-communication) |
+| [Reasoning Over the Air: A Reasoning- Based Implicit Semantic-Aware Communication Framework](https://ieeexplore.ieee.org/document/10250170) | TWC 2024 | [Official Version](https://github.com/Yiwei-Liao/iSAC) |
 | [Joint Coding-Modulation for Digital Semantic Communications via Variational Autoencoder](https://arxiv.org/pdf/2310.06690) | TOC 2024 | [Official Version](https://github.com/SJTU-mxtao/Joint-Coding-Modulation-for-Digital-Semantic-Communication) |
 | [A Unified Multi-Task Semantic Communication System for Multimodal Data](https://ieeexplore.ieee.org/abstract/document/10431795) | TOC 2024 | [Official Version](https://github.com/zhang-guangyi/t-udeepsc) |
 | [Swinjscc: Taming swin transformer for deep joint source-channel coding](https://arxiv.org/abs/2308.09361) | TCCN 2024 | [Official Version](https://github.com/semcomm/SwinJSCC) |
@@ -41,5 +42,6 @@ This repository organizes open source code in the field of semantic communicatio
 | [Semantic Communication Systems for Speech Transmission](https://ieeexplore.ieee.org/abstract/document/9450827) | JSAC 2021 | [Official Version](https://github.com/Zhenzi-Weng/DeepSC-S) |
 | [Deep Learning Enabled Semantic Communication Systems](https://ieeexplore.ieee.org/abstract/document/9398576) | TSP 2021 | [Official Version](https://github.com/HQXie0910/The-implementations-of-DeepSC); [PyTorch Version](https://github.com/13274086/DeepSC) |
 | [Wireless Image Transmission Using Deep Source Channel Coding With Attention Modules](https://ieeexplore.ieee.org/abstract/document/9438648) | TCSVT 2021 | [Official Version](https://github.com/alexxu1988/ADJSCC) |
+| [Deep joint source channel coding for wireless image transmission with OFDM](https://ieeexplore.ieee.org/abstract/document/9500996) | ICC 2021 | [Official Version](https://github.com/mingyuyng/Deep-JSCC-for-images-with-OFDM) |
 | [Reinforcement Learning-powered Semantic Communication via Semantic Similarity](https://arxiv.org/abs/2108.12121) | ArXiv | [Official Version](https://github.com/ZJUNICE/SemanticRL) |
 | [DeepJSCC-f: Deep Joint Source-Channel Coding of Images with Feedback](https://arxiv.org/pdf/1911.11174) | JSAIT 2020 | [Official Version](https://github.com/ipc-lab/deepJSCC-feedback) |
