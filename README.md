@@ -2,6 +2,8 @@
 
 This repository organizes open source code in the field of semantic communication.
 
+Give this project a star if you find it useful — it helps others discover the repo! And don't forget to watch for updates
+
 | Title | Source | code |
 | --- | --- | --- |
 | [Compression Ratio Learning and Semantic Communications for Video Imaging](https://ieeexplore.ieee.org/abstract/document/10539255) | JSTSP 2024 | [Official Version](https://github.com/Bowen-zhang96/CRL-SemCom-VidCI) |
@@ -20,6 +22,7 @@ This repository organizes open source code in the field of semantic communicatio
 | [Predictive and Adaptive Deep Coding for Wireless Image Transmission in Semantic Communication](https://ieeexplore.ieee.org/abstract/document/10015684) | TWC 2023 | [Official Version](https://github.com/wyzhang-ustb/Predictive-and-Adaptive-Deep-Coding-for-Wireless-Image-Transmission-in-Semantic-Communication) |
 | [Robust Semantic Communications With Masked VQ-VAE Enabled Codebook](https://ieeexplore.ieee.org/document/10101778) | TWC 2023 | [Official Version](https://github.com/hqyyqh888/RobustSemanComm) |
 | [Knowledge Enhanced Semantic Communication Receiver](https://ieeexplore.ieee.org/abstract/document/10122227) | COMML 2023 | [Official Version](https://github.com/ZJUNICE/Knowledge-Enhanced-SemCom) |
+| [Alleviating Distortion Accumulation in Multi-Hop Semantic Communication](https://ieeexplore.ieee.org/abstract/document/10345598) | COMML 2023 | [Official Version](https://github.com/ZJU-IICNS-AICOMM/Multihop-DeepSC) |
 | [Distributed Deep Joint Source-Channel Coding over a Multiple Access Channel](https://arxiv.org/pdf/2211.09920) | ICC 2023 | [Official Version](https://github.com/ipc-lab/deepjscc-noma) |
 | [DeepJSCC-1++: Robust and Bandwidth-Adaptive Wireless Image Transmission](https://ieeexplore.ieee.org/document/10436878) | Globecom 2023 | [Official Version](https://github.com/aprilbian/deepjscc-lplusplus) |
 | [Alternate Learning based Sparse Semantic Communications for Visual Transmission](https://ieeexplore.ieee.org/abstract/document/10293971) | PIMRC 2023 | [Official Version](https://github.com/ZJUNICE/SparseSBC) | 
@@ -45,3 +48,6 @@ This repository organizes open source code in the field of semantic communicatio
 | [Deep joint source channel coding for wireless image transmission with OFDM](https://ieeexplore.ieee.org/abstract/document/9500996) | ICC 2021 | [Official Version](https://github.com/mingyuyng/Deep-JSCC-for-images-with-OFDM) |
 | [Reinforcement Learning-powered Semantic Communication via Semantic Similarity](https://arxiv.org/abs/2108.12121) | ArXiv | [Official Version](https://github.com/ZJUNICE/SemanticRL) |
 | [DeepJSCC-f: Deep Joint Source-Channel Coding of Images with Feedback](https://arxiv.org/pdf/1911.11174) | JSAIT 2020 | [Official Version](https://github.com/ipc-lab/deepJSCC-feedback) |
+
+## Acknowlegaements
+Thanks to the original authors of this open-source code for their valuable contributions to the community.
