@@ -17,7 +17,6 @@ Give this project a star if you find it useful — it helps others discover the 
 | [Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information](https://arxiv.org/abs/2310.04311) | ICMLCN 2024 | [Official Version](https://github.com/ipc-lab/deepjscc-wz) |
 | Wireless Image Semantic Cooperative Transmission in Distributed Edge Networks: An Information Disentanglement Method | SPAWC 2024 | [Official Version](https://github.com/Donghong-Cai/Two-view-DC-DeepJSCC-D) |
 | [Language-Oriented Semantic Latent Representation for Image Transmission](https://arxiv.org/abs/2405.09976) | ArXiv | [Official Version](https://github.com/ispamm/Img2Img-SC/) |
-| [Diffusion-Aided Joint Source Channel Coding For High Realism Wireless Image Transmission](https://arxiv.org/pdf/2404.17736) | ArXiv | [Official Version](https://github.com/mingyuyng/DiffJSCC) |
 | [Diffusion-Aided Joint Source Channel Coding For High Realism Wireless Image Transmission](https://arxiv.org/abs/2404.17736) | ArXiv | [Official Version](https://github.com/mingyuyng/DiffJSCC) |
 | [Deep Learning-Based Adaptive Joint Source-Channel Coding using Hypernetworks](https://arxiv.org/abs/2401.11155) | ArXiv | [Official Version](https://github.com/SongjieXie/Hyper-AJSCC) |
 | [Semantic Communications With Variable-Length Coding for Extended Reality](https://ieeexplore.ieee.org/document/10198383) | JSTSP 2023 | [Official Version](https://github.com/Bowen-zhang96/VL-SCC) |
