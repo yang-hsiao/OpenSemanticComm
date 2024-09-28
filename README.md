@@ -16,6 +16,7 @@ Give this project a star if you find it useful — it helps others discover the 
 | [Diffusion Models for Audio Semantic Communication](https://ieeexplore.ieee.org/document/10447612) | ICASSP 2024 | [Official Version](https://github.com/ispamm/DM4ASC) |
 | [Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information](https://arxiv.org/abs/2310.04311) | ICMLCN 2024 | [Official Version](https://github.com/ipc-lab/deepjscc-wz) |
 | Wireless Image Semantic Cooperative Transmission in Distributed Edge Networks: An Information Disentanglement Method | SPAWC 2024 | [Official Version](https://github.com/Donghong-Cai/Two-view-DC-DeepJSCC-D) |
+| [Digital Semantic Communications: An Alternating Multi-Phase Training Strategy with Mask Attack](https://arxiv.org/pdf/2408.04972) | ArXiv | [Official Version](https://github.com/gmzSZU/AMP-SC) |
 | [Language-Oriented Semantic Latent Representation for Image Transmission](https://arxiv.org/abs/2405.09976) | ArXiv | [Official Version](https://github.com/ispamm/Img2Img-SC/) |
 | [Diffusion-Aided Joint Source Channel Coding For High Realism Wireless Image Transmission](https://arxiv.org/abs/2404.17736) | ArXiv | [Official Version](https://github.com/mingyuyng/DiffJSCC) |
 | [Deep Learning-Based Adaptive Joint Source-Channel Coding using Hypernetworks](https://arxiv.org/abs/2401.11155) | ArXiv | [Official Version](https://github.com/SongjieXie/Hyper-AJSCC) |
@@ -34,6 +35,7 @@ Give this project a star if you find it useful — it helps others discover the 
 | [Alleviating Distortion Accumulation in Multi-Hop Semantic Communication](https://arxiv.org/pdf/2308.11126) | ArXiv | [Official Version](https://github.com/ZJU-IICNS-AICOMM/Multihop-DeepSC) |
 | [Large AI Model-Based Semantic Communications](https://arxiv.org/abs/2307.03492) | ArXiv | [Official Version](https://github.com/jiangfeibo/LAMSC) |
 | [Generative Semantic Communication: Diffusion Models Beyond Bit Recovery](https://arxiv.org/pdf/2306.04321v1) | ArXiv | [Official Version](https://github.com/ispamm/GESCO) |
+| [Semantic-Functional Communications in Cyber-Physical Systems](https://arxiv.org/pdf/2305.19710) | ArXiv | [Official Version](https://github.com/pedrogoria/Semantic-Functional-Communications) |
 | [Deep Learning-Enabled Semantic Communication Systems with Task-Unaware Transmitter and Dynamic Data](https://arxiv.org/pdf/2205.00271) | JSAC 2022 | [Official Version](https://github.com/SJTU-mxtao/Semantic-Communication-Systems) |
 | [Nonlinear Transform Source-Channel Coding for Semantic Communications](https://arxiv.org/abs/2112.10961) | JSAC 2022 | [Official Version](https://github.com/wsxtyrdd/NTSCC_JSAC22) |
 | [OFDM-guided deep joint source channel coding for wireless multipath fading channels](https://arxiv.org/abs/2109.05194) | TCCN 2022 | [Official Version](https://github.com/mingyuyng/OFDM-guided-JSCC) |
