@@ -13,7 +13,9 @@ Give this project a star if you find it useful — it helps others discover the 
 | [A Unified Multi-Task Semantic Communication System for Multimodal Data](https://ieeexplore.ieee.org/abstract/document/10431795) | TOC 2024 | [Official Version](https://github.com/zhang-guangyi/t-udeepsc) |
 | [Swinjscc: Taming swin transformer for deep joint source-channel coding](https://arxiv.org/abs/2308.09361) | TCCN 2024 | [Official Version](https://github.com/semcomm/SwinJSCC) |
 | [Two-way semantic communications without feedback](https://ieeexplore.ieee.org/abstract/document/10400867) | TVT 2024 | [Official Version](https://github.com/Kiven-ykw/TW-SemanticComm) |
+| [GenSC: Generative Semantic Communication Systems Using BART-Like Model](https://ieeexplore.ieee.org/document/10648817) | COMML 2024 | [official version](https://github.com/minkuanc-WMC/gensc) |
 | [Diffusion Models for Audio Semantic Communication](https://ieeexplore.ieee.org/document/10447612) | ICASSP 2024 | [Official Version](https://github.com/ispamm/DM4ASC) |
+| [Extreme Video Compression With Prediction Using Pre-trainded Diffusion Models](https://arxiv.org/abs/2402.08934) | WCSP 2024 | [Official Version](https://github.com/ElesionKyrie/Extreme-Video-Compression-With-Prediction-Using-Pre-trainded-Diffusion-Models-) |
 | [Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information](https://arxiv.org/abs/2310.04311) | ICMLCN 2024 | [Official Version](https://github.com/ipc-lab/deepjscc-wz) |
 | Wireless Image Semantic Cooperative Transmission in Distributed Edge Networks: An Information Disentanglement Method | SPAWC 2024 | [Official Version](https://github.com/Donghong-Cai/Two-view-DC-DeepJSCC-D) |
 | [Digital Semantic Communications: An Alternating Multi-Phase Training Strategy with Mask Attack](https://arxiv.org/pdf/2408.04972) | ArXiv | [Official Version](https://github.com/gmzSZU/AMP-SC) |
