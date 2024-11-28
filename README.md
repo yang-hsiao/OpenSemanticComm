@@ -4,6 +4,9 @@ This repository organizes open source code in the field of semantic communicatio
 
 Give this project a star if you find it useful — it helps others discover the repo! And don't forget to watch for updates
 
+Besides, warmly invite you to contribute to this repository by sharing your open-source code through pull requests. Additionally, if you have conference presentations (PPTs), recordings, or any other materials that you think could be valuable to others, feel free to share them to the `\materials` folder. 
+
+Any question or cooperation, feel free to contact me at yangxiao241@mails.ucas.ac.cn
 | Title | Source | code |
 | --- | --- | --- |
 | [Contrastive Learning and Adversarial Disentanglement for Privacy-Preserving Task-Oriented Semantic Communications](https://arxiv.org/abs/2410.22784) | ArXiv | [Official Version](https://github.com/OmarErak/CLAD) |
