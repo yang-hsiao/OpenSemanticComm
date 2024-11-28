@@ -6,6 +6,7 @@ Give this project a star if you find it useful — it helps others discover the 
 
 | Title | Source | code |
 | --- | --- | --- |
+| [Contrastive Learning and Adversarial Disentanglement for Privacy-Preserving Task-Oriented Semantic Communications](https://arxiv.org/abs/2410.22784) | ArXiv | [Official Version](https://github.com/OmarErak/CLAD) |
 | [Compression Ratio Learning and Semantic Communications for Video Imaging](https://ieeexplore.ieee.org/abstract/document/10539255) | JSTSP 2024 | [Official Version](https://github.com/Bowen-zhang96/CRL-SemCom-VidCI) |
 | [CDDM: Channel Denoising Diffusion Models for Wireless Semantic Communications](https://ieeexplore.ieee.org/document/10480348) | TWC 2024 | [Official Version](https://github.com/Wireless3C-SJTU/CDDM-channel-denoising-diffusion-model-for-semantic-communication) |
 | [Reasoning Over the Air: A Reasoning- Based Implicit Semantic-Aware Communication Framework](https://ieeexplore.ieee.org/document/10250170) | TWC 2024 | [Official Version](https://github.com/Yiwei-Liao/iSAC) |
