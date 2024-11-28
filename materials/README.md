@@ -1,1 +1,1 @@
-For 
+For clarity, please follow the naming convention "ConferenceName_SpeakerName."
