@@ -9,12 +9,13 @@ Besides, warmly invite you to contribute to this repository by sharing your open
 Any question or cooperation, feel free to contact me at yangxiao241@mails.ucas.ac.cn
 | Title | Source | code |
 | --- | --- | --- |
+| [Content Adaptive Distributed Joint Source-Channel Coding for Image Transmission With Hyperprior](https://ieeexplore.ieee.org/document/10623367) | TCCN 2025 | [Official code](https://github.com/listen06/DHF-JSCC) |
 | [Contrastive Learning and Adversarial Disentanglement for Privacy-Preserving Task-Oriented Semantic Communications](https://arxiv.org/abs/2410.22784) | ArXiv | [Official Version](https://github.com/OmarErak/CLAD) |
 | [Compression Ratio Learning and Semantic Communications for Video Imaging](https://ieeexplore.ieee.org/abstract/document/10539255) | JSTSP 2024 | [Official Version](https://github.com/Bowen-zhang96/CRL-SemCom-VidCI) |
 | [CDDM: Channel Denoising Diffusion Models for Wireless Semantic Communications](https://ieeexplore.ieee.org/document/10480348) | TWC 2024 | [Official Version](https://github.com/Wireless3C-SJTU/CDDM-channel-denoising-diffusion-model-for-semantic-communication) |
 | [Reasoning Over the Air: A Reasoning- Based Implicit Semantic-Aware Communication Framework](https://ieeexplore.ieee.org/document/10250170) | TWC 2024 | [Official Version](https://github.com/Yiwei-Liao/iSAC) |
-| [Joint Coding-Modulation for Digital Semantic Communications via Variational Autoencoder](https://arxiv.org/pdf/2310.06690) | TOC 2024 | [Official Version](https://github.com/SJTU-mxtao/Joint-Coding-Modulation-for-Digital-Semantic-Communication) |
-| [A Unified Multi-Task Semantic Communication System for Multimodal Data](https://ieeexplore.ieee.org/abstract/document/10431795) | TOC 2024 | [Official Version](https://github.com/zhang-guangyi/t-udeepsc) |
+| [Joint Coding-Modulation for Digital Semantic Communications via Variational Autoencoder](https://arxiv.org/pdf/2310.06690) | TCOMM 2024 | [Official Version](https://github.com/SJTU-mxtao/Joint-Coding-Modulation-for-Digital-Semantic-Communication) |
+| [A Unified Multi-Task Semantic Communication System for Multimodal Data](https://ieeexplore.ieee.org/abstract/document/10431795) | TCOMM 2024 | [Official Version](https://github.com/zhang-guangyi/t-udeepsc) |
 | [Swinjscc: Taming swin transformer for deep joint source-channel coding](https://arxiv.org/abs/2308.09361) | TCCN 2024 | [Official Version](https://github.com/semcomm/SwinJSCC) |
 | [Two-way semantic communications without feedback](https://ieeexplore.ieee.org/abstract/document/10400867) | TVT 2024 | [Official Version](https://github.com/Kiven-ykw/TW-SemanticComm) |
 | [GenSC: Generative Semantic Communication Systems Using BART-Like Model](https://ieeexplore.ieee.org/document/10648817) | COMML 2024 | [official version](https://github.com/minkuanc-WMC/gensc) |
